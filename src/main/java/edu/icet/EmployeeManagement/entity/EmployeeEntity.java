@@ -18,7 +18,7 @@ import java.time.LocalDateTime;
 @Data
 @ToString
 @Entity
-@Table(name = "/employee")
+@Table(name = "/Employee")
 public class EmployeeEntity {
 
     @Id
